@@ -26,4 +26,4 @@ Los datos originales procesados contienen los siguientes campos:
 ---
 
 ## 🔧 Herramientas Utilizadas
-- **Lenguaje:** Python (Estructuras de datos, bucles, manejo de listas y diccionarios).
+- **Lenguaje:** Python (Estructuras de datos, bucles, manejo de listas).
